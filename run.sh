@@ -1,0 +1,1 @@
+docker run -it --rm -p 8081:8081 -v /Users/vincentmi/work/xj/agate-h5/webView_h5_9year:/app vincentmi/vue2builder:20230609 npm run build
